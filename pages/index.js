@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Quando a vitória e o sucesso aparecer na sua porta, lembre-se de manter o foco</h1>
+    return <h1>Lorena, vc é a irmã mais fofa e linda do mundo</h1>
 }
 
 export default Home; // índice do componente do arquivo
