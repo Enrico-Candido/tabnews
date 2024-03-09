@@ -1,5 +1,6 @@
 # tabnews
-Projeto com finalidade de aprendizado do curso.dev 
+
+Projeto com finalidade de aprendizado do curso.dev
 
 Fluxo inicial realizado:
 instalação do node na versão tls hydrogen > 'nvm install lts/hydrogen';
